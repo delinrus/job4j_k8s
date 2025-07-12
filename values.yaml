@@ -6,7 +6,7 @@ config:
   database_url: "jdbc:postgresql://188.242.76.99:5432/job4j_devops?sslmode=disable"
 
 containers:
-  image: "delinrus/job4j_devops:v.1.0.7"
+  image: "delinrus/job4j_devops:v.1.0.8"
 
 
 
